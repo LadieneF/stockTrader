@@ -1,5 +1,7 @@
 # stock-trader
 
+Projeto criado usando Vuejs.
+
 ## Project setup
 ```
 npm install
